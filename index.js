@@ -92,7 +92,7 @@ function draw() {
     clearInterval(intervalId);
     ctx.fillStyle = 'red';
     ctx.font = '40px sans-serif';
-    ctx.fillText('Game over', 50, 150);
+    ctx.fillText('sorry gunna', 50, 150);
     return;
   }
 
